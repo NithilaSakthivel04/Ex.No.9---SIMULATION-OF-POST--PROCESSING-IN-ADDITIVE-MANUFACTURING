@@ -1,9 +1,9 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 18.03.2026
 
 ## AIM: 
-### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
+To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
 
 ## REQUIREMENTS:
 ### System - Windows 7 or higher, 1 GB RAM.
@@ -47,8 +47,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1039" height="556" alt="image" src="https://github.com/user-attachments/assets/b3fdfe28-7bd7-4f5e-a22e-b591d44cb5f6" />
+<img width="1043" height="555" alt="image" src="https://github.com/user-attachments/assets/607bd3a2-820c-4532-80ac-2e681a84532a" />
+<img width="1039" height="549" alt="image" src="https://github.com/user-attachments/assets/f796c874-a62b-42d2-b8e1-390fd1362f44" />
+
+### Name: Nithila S
+### Register Number: 212224040224
 
 ## Result: 
-### Thus the simulation on the Postprocessing in additive manufacturing is completed.
+Thus the simulation on the Postprocessing in additive manufacturing is completed.
